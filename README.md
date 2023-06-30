@@ -1,10 +1,8 @@
 # ERA-GLA-Portfolio
 
+Live Link :  { Note: JavaScript actions are not present in the live link}
 
-
-GITHUB LINK OF THE PORTFOLIO
-
-https://github.com/shhiivvaam/ERA-GLA-Portfolio
+https://shhiivvaam.github.io/ERA-GLA-Portfolio/
 
 
 Develop portfolio using HTML,CSS or HTML,CSS,JavaScript...
